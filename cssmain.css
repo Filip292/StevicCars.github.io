@@ -3,9 +3,7 @@
 .wrapper {
   margin-right: auto;
   margin-left:  auto; 
-
   max-width: 960px;
-
   padding-right: 10px; 
   padding-left:  10px; 
 }
@@ -64,9 +62,30 @@ header{
 
 .centar{
 	width: 800px;
-	height: 500px;
 	border-left: 2px solid;
 	border-right: 2px solid;
 	border-color: #b31e1a;
 
+}
+.oglas{
+	width: 707px;
+	height: 230px;
+	background-color: #e0e0e2;
+	margin-left: 10px;
+}
+
+.okvir{
+	width: 260px;
+	height: 193px;
+	padding-left: 3px;
+	padding-bottom: 3px;
+	padding-top: 4px;
+	padding-right: 3px;
+	float: left;
+	background-image: url(Slike/5.jpg);
+	background-size: cover;
+
+}
+.unutra{
+	padding: 4px;
 }
